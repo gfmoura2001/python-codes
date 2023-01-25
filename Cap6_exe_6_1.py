@@ -1,0 +1,1 @@
+frase = print('Romani ite domum '*100)
